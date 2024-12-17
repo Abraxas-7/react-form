@@ -3,3 +3,8 @@ main {
   display: flex;
   justify-content: center;
 }
+
+.my-container {
+  height: 100px;
+  background: red;
+}
